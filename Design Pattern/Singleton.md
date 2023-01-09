@@ -8,8 +8,8 @@ Singleton Pattern 은 단 하나의 instance 화된 object 를 통해 applicatio
 ## Objectives
 
 0. Singleton Pattern 에 대해 알아본다
-1. Java application 에서 instance 를 생성할 떄, Runtime 에 Memory 에서 어떤 일이 일어나는지 알아본다
-2. Singleton 
+1. Java application 에서 instance 를 생성할 떄, Runtime 시 Memory 에서 어떤 일이 일어나는지 알아본다
+2. Application 에서의 Singleton Pattern 의 쓰임과 의의
 3. Spring 에서 어떻게 DI 를 구현하는지 알아본다
 
 ## 0. Singleton Pattern
